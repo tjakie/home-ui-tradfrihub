@@ -1,0 +1,23 @@
+{
+  "name": "home-ui-tradfrihub",
+  "version": "1.0.0",
+  "description": "Hi! you are visiting the github repo of a module that's included in https://github.com/tjakie/home-ui-frontend! please check that repo out for more information!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjakie/home-ui-tradfrihub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tjakie/home-ui-tradfrihub/issues"
+  },
+  "homepage": "https://github.com/tjakie/home-ui-tradfrihub#readme",
+  "dependencies": {
+    "ikea-tradfri": "^3.1.0",
+    "node-tradfri-client": "^1.0.0"
+  }
+}
